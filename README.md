@@ -1,17 +1,16 @@
 ### 👋 ¡Hola! Soy Guste
 
-Frontend Developer en formación, apasionada por crear productos digitales que no solo funcionen de maravilla, sino que además *se vean brutales*. Actualmente trabajo como recepcionista en un hotel en Málaga (¡hola multitasking!) mientras me formo intensamente en desarrollo web a través del Máster Frontend de Lemoncode.
+Frontend Developer en formación, apasionada por crear productos digitales que funcionen bien y *luzcan brutales*. Actualmente compagino mi trabajo como recepcionista en un hotel en Málaga con el Máster Frontend de Lemoncode.
 
-Estoy en pleno proceso de dar un **giro a mi vida profesional**, cambiando de sector para dedicarme al desarrollo Frontend. No descarto que algún día pueda **fusionar mi experiencia en el mundo hotelero con la programación**, creando soluciones digitales para mejorar la experiencia de los usuarios en turismo o servicios.  
-Aun así, estoy totalmente **abierta a proyectos creativos, retadores y emocionantes** que me permitan crecer y aportar valor.
-
----
+Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. Me motiva la idea de algún día **fusionar mi experiencia hotelera con la programación**, pero también estoy **abierta a proyectos creativos y desafiantes** que me impulsen a crecer y aportar valor real.
 
 🛠️ **Tech Stack actual**
-- HTML, CSS, JavaScript, TypeScript
-- React, Material UI
-
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ✨ **Proyectos**
 
@@ -25,10 +24,3 @@ Aun así, estoy totalmente **abierta a proyectos creativos, retadores y emociona
 - **Gestor de pedidos** – App CRUD completa para la gestión de pedidos.  
   Muestra una lista de pedidos en la página de inicio, donde se pueden **añadir, editar y eliminar**.  
   Al entrar al detalle de un pedido, se visualizan sus artículos, los cuales también se pueden **gestionar individualmente**. El importe total y el estado del pedido se **actualizan dinámicamente**, tanto en la vista de detalle como en la lista principal.  
-
----
-
-🚀 **Objetivo profesional**
-
-Busco oportunidades de **prácticas**, **trabajo remoto** o **presencial en Málaga**.  
-Mi objetivo es claro: convertirme en una **desarrolladora frontend profesional** capaz de construir productos atractivos, funcionales y con valor real para las personas.
