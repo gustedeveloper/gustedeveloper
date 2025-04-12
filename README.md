@@ -4,7 +4,7 @@ Frontend Developer en formación, apasionada por crear productos digitales que f
 
 Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. Me motiva la idea de algún día **fusionar mi experiencia hotelera con la programación**, pero también estoy **abierta a proyectos creativos y desafiantes** que me impulsen a crecer y aportar valor real.
 
-🛠️ **Tech Stack actual**
+## 🛠️ **Tech Stack actual**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -18,7 +18,7 @@ Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
-✨ **Proyectos**
+## ✨ **Proyectos**
 
 - **Quick Mock** – Proyecto open source en el que estoy colaborando como parte de mi TFM.  
   Se trata de una herramienta para crear prototipos de baja fidelidad de forma rápida y sencilla.  
