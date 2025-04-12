@@ -7,13 +7,13 @@ Aun así, estoy totalmente **abierta a proyectos creativos, retadores y emociona
 
 ---
 
-🛠️ **Tech Stack actual:**
+🛠️ **Tech Stack actual**
 - HTML, CSS, JavaScript, TypeScript
 - React, Material UI
 
 ---
 
-✨ **Proyectos destacados:**
+✨ **Proyectos**
 
 - **Quick Mock** – Proyecto open source en el que estoy colaborando como parte de mi TFM.  
   Se trata de una herramienta para crear prototipos de baja fidelidad de forma rápida y sencilla.  
@@ -28,7 +28,7 @@ Aun así, estoy totalmente **abierta a proyectos creativos, retadores y emociona
 
 ---
 
-🚀 **Objetivo profesional:**
+🚀 **Objetivo profesional**
 
 Busco oportunidades de **prácticas**, **trabajo remoto** o **presencial en Málaga**.  
 Mi objetivo es claro: convertirme en una **desarrolladora frontend profesional** capaz de construir productos atractivos, funcionales y con valor real para las personas.
