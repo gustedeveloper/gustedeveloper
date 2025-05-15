@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Guste
 
-Frontend Developer en formación, apasionada por crear productos digitales que funcionen bien y *luzcan brutales*. Actualmente compagino mi trabajo como recepcionista en un hotel en Málaga con el Máster Frontend de Lemoncode.
+Frontend Developer, apasionada por crear productos digitales que funcionen bien y *luzcan brutales*. Actualmente compagino mi trabajo como recepcionista en un hotel en Málaga con el Máster Frontend de Lemoncode.
 
 Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. Me motiva la idea de algún día **fusionar mi experiencia hotelera con la programación**, pero también estoy **abierta a proyectos creativos y desafiantes** que me impulsen a crecer y aportar valor real.
 
