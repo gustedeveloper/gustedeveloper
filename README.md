@@ -26,6 +26,6 @@ I'm a frontend developer with a curious and creative mindset, always eager to ke
 
 ### 🚀 Personal Projects
 
-- **🪴 Daily Sprouts** — A **Vue.js** app with *pixel art* aesthetics inspired by *Stardew Valley*. It turns your daily tasks into sprouts, flowers, and a living digital garden. Because staying organized can also be symbolic, visual, and deeply motivating.
-- **🌀 Momentum** — An **Angular** project that works as an emotional time capsule: store memories, revisit key moments, and stay grounded in the present.
-- **📸 Lemonstock** — A **React** app that lets you search for images and simulate a shopping experience.
+- **🪴 [Daily Sprouts](https://gustedeveloper.github.io/daily-sprouts/)** — A **Vue.js** app with *pixel art* aesthetics inspired by *Stardew Valley*. It turns your daily tasks into sprouts, flowers, and a living digital garden. Because staying organized can also be symbolic, visual, and deeply motivating.
+- **🌀 [Momentum](https://gustedeveloper.github.io/Momentum)** — An **Angular** project that works as an emotional time capsule: store memories, revisit key moments, and stay grounded in the present.
+- **📸 [Lemonstock](https://gustedeveloper.github.io/Lemonstock/)** — A **React** app that lets you search for images and simulate a shopping experience.
