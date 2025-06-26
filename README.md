@@ -1,10 +1,8 @@
-## 👋 ¡Hola! Soy Guste
+# Hi there! I'm Guste 👋
 
-Frontend Developer, apasionada por crear productos digitales que funcionen bien y *luzcan brutales*. Actualmente compagino mi trabajo como recepcionista en un hotel en Málaga con el Máster Frontend de Lemoncode.
+I'm a frontend developer with a curious and creative mindset, always eager to keep sharpening my skills. I enjoy crafting thoughtful, dynamic, and meaningful interfaces using technologies like **React**, **Vue.js**, and **Angular**.
 
-Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. Me motiva la idea de algún día **fusionar mi experiencia hotelera con la programación**, pero también estoy **abierta a proyectos creativos y desafiantes** que me impulsen a crecer y aportar valor real.
-
-### 🛠️ **Tech Stack actual**
+### 🛠️ **Current Tech Stack**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -13,20 +11,21 @@ Estoy dando un **giro a mi vida profesional** para dedicarme al desarrollo web. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
+  <img src="https://vitest.dev/logo-shadow.svg" height="40" alt="Vitest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
-### ✨ **Proyectos**
+### 🤝 Notable Collaboration
 
-- **Quick Mock** – Proyecto open source en el que estoy colaborando como parte de mi TFM.  
-  Se trata de una herramienta para crear prototipos de baja fidelidad de forma rápida y sencilla.  
-  Estoy emocionada de participar en un proyecto de mayor envergadura y, sobre todo, de experimentar lo que es **trabajar en equipo de verdad** dentro del desarrollo web.
+- **[QuickMock](https://quickmock.net/)** — I contributed to this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
 
-- **Lemonstock** – Web inspirada en un stock de imágenes.  
-  Puedes seleccionar imágenes de dos categorías (Naturaleza y Ciudad), añadirlas al carrito y realizar un *checkout* con el total calculado. Me permitió trabajar lógica de filtrado, estado global y componentes reutilizables.
+### 🚀 Personal Projects
 
-- **Gestor de pedidos** – App CRUD completa para la gestión de pedidos.  
-  Muestra una lista de pedidos en la página de inicio, donde se pueden **añadir, editar y eliminar**.  
-  Al entrar al detalle de un pedido, se visualizan sus artículos, los cuales también se pueden **gestionar individualmente**. El importe total y el estado del pedido se **actualizan dinámicamente**, tanto en la vista de detalle como en la lista principal.  
+- **🪴 Daily Sprouts** — A **Vue.js** app with *pixel art* aesthetics inspired by *Stardew Valley*. It turns your daily tasks into sprouts, flowers, and a living digital garden. Because staying organized can also be symbolic, visual, and deeply motivating.
+- **🌀 Momentum** — An **Angular** project that works as an emotional time capsule: store memories, revisit key moments, and stay grounded in the present.
+- **📸 Lemonstock** — A **React** app that lets you search for images and simulate a shopping experience.
