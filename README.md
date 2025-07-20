@@ -22,7 +22,7 @@ I'm a frontend developer with a curious and creative mindset, always eager to ke
 
 ### 🤝 Notable Collaboration
 
-- **[QuickMock](https://quickmock.net/)** — I contributed to this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
+- **[QuickMock](https://quickmock.net/)** — I'm currently contributing to this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
 
 ### 🚀 Personal Projects
 
