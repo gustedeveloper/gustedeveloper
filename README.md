@@ -13,6 +13,7 @@ I'm a frontend developer with a curious and creative mindset, always eager to ke
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
   <img src="https://vitest.dev/logo-shadow.svg" height="40" alt="Vitest" />
@@ -20,12 +21,13 @@ I'm a frontend developer with a curious and creative mindset, always eager to ke
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
-### 🤝 Notable Collaboration
+### 🤝 Active Open Source Projects Collaborations
 
-- **[QuickMock](https://quickmock.net/)** — I'm currently contributing to this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
+- **[QuickMock](https://quickmock.net/)** — Implemented end-to-end tests with Playwright and actively developing components with React Konva + TypeScript in this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
+- **[InfoEmbalses](https://github.com/Lemoncode/embalse-info)** — Currently working on the data collection phase, integrating APIs and performing web scraping from official sources in InfoEmbalses, an open-source project that displays real-time data on reservoir levels by river basin. 
 
 ### 🚀 Personal Projects
-
+- **📸 [Lemonstock](https://lemonstock.onrender.com/)** — A **React** app connected to Pexels API that lets you search for images and simulate a e-commerce experience.
 - **🪴 [Daily Sprouts](https://gustedeveloper.github.io/daily-sprouts/)** — A **Vue.js** app with *pixel art* aesthetics inspired by *Stardew Valley*. It turns your daily tasks into sprouts, flowers, and a living digital garden. Because staying organized can also be symbolic, visual, and deeply motivating.
 - **🌀 [Momentum](https://gustedeveloper.github.io/Momentum)** — An **Angular** project that works as an emotional time capsule: store memories, revisit key moments, and stay grounded in the present.
-- **📸 [Lemonstock](https://gustedeveloper.github.io/Lemonstock/)** — A **React** app that lets you search for images and simulate a shopping experience.
+
