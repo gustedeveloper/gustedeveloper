@@ -2,6 +2,8 @@
 
 I'm a frontend developer with a curious and creative mindset, always eager to keep sharpening my skills. I enjoy crafting thoughtful, dynamic, and meaningful interfaces using technologies like **React**, **Vue.js**, and **Angular**.
 
+[![Guste's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustedeveloper&show_icons=true&show=prs_merged&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠️ **Current Tech Stack**
 
 <p align="left">
