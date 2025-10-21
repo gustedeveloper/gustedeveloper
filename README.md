@@ -26,7 +26,8 @@ I'm a frontend developer with a curious and creative mindset, always eager to ke
 ### 🤝 Active Open Source Projects Collaborations
 
 - **[QuickMock](https://quickmock.net/)** — Implemented end-to-end tests with Playwright and actively developing components with React Konva + TypeScript in this open source project by Lemoncode, a tool designed to create low-fidelity wireframes in minutes. Ideal for capturing quick ideas and structuring interfaces effortlessly.
-- **[InfoEmbalses](https://github.com/Lemoncode/embalse-info)** — Currently working on the data collection phase, integrating APIs and performing web scraping from official sources in InfoEmbalses, an open-source project that displays real-time data on reservoir levels by river basin. 
+- **[Mongo Modeler](https://mongomodeler.com/)** — Improving usability and enhancing the overall user experience in this open source project by Lemoncode, a web application that allows you to design and model MongoDB databases.
+- **[InfoEmbalses](https://github.com/Lemoncode/embalse-info)** — Currently working on the data collection phase, integrating APIs and performing web scraping from official sources in InfoEmbalses, an open-source project by Lemoncode that displays real-time data on reservoir levels by river basin. 
 
 ### 🚀 Personal Projects
 - **📸 [Lemonstock](https://lemonstock.onrender.com/)** — A **React** app connected to Pexels API that lets you search for images and simulate a e-commerce experience.
